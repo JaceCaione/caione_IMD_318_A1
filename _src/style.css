@@ -1,0 +1,25 @@
+body {
+    background: #62B6CB;
+}
+
+h1 {
+    font-family: "Momo Trust Display", sans-serif;
+    font-weight: 600;
+    color: #1B4965;
+}
+p {
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    color: #BEE9E8;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1em;
+    font-family: "Roboto Slab", serif;
+    
+    a {
+        text-decoration: none;
+        color: #CAE9FF;
+    }
+}

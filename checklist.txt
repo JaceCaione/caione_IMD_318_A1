@@ -1,0 +1,12 @@
+The site must:
+
+have at least three pages with navigation 
+pass through CSS, and any images or JS 
+be stored at GitHub as a repository in your GitHub account
+be deployed to the web with Netlify from your GitHub account
+
+The focus here is on using 11ty's abstraction capabilities and additional tools that promote that developer experience, Git to create and update a repository at GitHub, and making those changes visible to the web using Netlify. 
+
+Design
+
+Submissions *must* be accompanied with a simple pattern library (colour palette and typefaces).
