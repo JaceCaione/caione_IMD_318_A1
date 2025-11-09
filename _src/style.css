@@ -22,12 +22,7 @@ nav ul {
         text-decoration: none;
         color: #CAE9FF;
     }
-}
-nav source {
-    display: flex;
-    text-align: end;
-    gap: -1em;
-    font-family: "Roboto Slab", serif;
-    text-decoration: none;
-    color: #CAE9FF;
+    .source {
+        justify-self: end;
+    }
 }
