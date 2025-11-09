@@ -22,9 +22,4 @@ nav ul {
         text-decoration: none;
         color: #CAE9FF;
     }
-    ul.source {
-        justify-items: end;
-        text-decoration: none;
-        color: #CAE9FF;
-    }
 }
