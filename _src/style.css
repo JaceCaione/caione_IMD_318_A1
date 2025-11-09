@@ -23,3 +23,13 @@ nav ul {
         color: #CAE9FF;
     }
 }
+nav source {
+    display: flex;
+    justify-items: end;
+    font-family: "Roboto Slab", serif;
+    
+    a {
+        text-decoration: none;
+        color: #CAE9FF;
+    }
+}
