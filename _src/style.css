@@ -25,7 +25,8 @@ nav ul {
 }
 nav source {
     display: flex;
-    justify-items: end;
+    text-align: end;
+    gap: -1em;
     font-family: "Roboto Slab", serif;
     
     a {
