@@ -23,7 +23,7 @@ nav ul {
         color: #CAE9FF;
     }
 }
-.source {
+nav source {
     display: flex;
     text-align: end;
     gap: -1em;
